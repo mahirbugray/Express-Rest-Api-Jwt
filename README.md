@@ -7,6 +7,8 @@ ENG -> We developed the RestFull API structure using the Express.Js structure an
 
 ```javascript
 cd filename npm install
+
+cd filename npm start
 ```
 
 
